@@ -1,1 +1,2 @@
- This is a day planner app
+ This is a work day planner app. This app uses Jquery and displays the current time. There are text fields that are sorted by the hours in a work day. The text field will change backround color according to the current time. When a fields save button is clicked, the text from the field will push to localstorage. On loading the page each field will be populated by it corresponding localstorage key. The clear button will empty the localstorage and refresh the page.
+Deployed here:   https://onijimbo.github.io/onijimbo.github.io-work-planner/
